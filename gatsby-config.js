@@ -5,6 +5,7 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/naumanrao',
   siteMetadata: {
     title: 'Nauman Bin Tariq',
     description:
